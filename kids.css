@@ -1,0 +1,45 @@
+
+        body {
+            font-size: 1rem;
+            font-family: "Nunito", sans-serif;
+            font-weight: 400;
+           
+
+        }
+
+        table tr td {
+            border-right: 1px solid lightgray;
+        }
+
+        td:last-child {
+            border-right: none;
+        }
+
+        .reg {
+
+            text-align: center;
+
+            padding: 20px;
+            margin-left: 75px;
+        }
+        footer{
+            background-color:#00394f;
+            color: white;
+            font-size: initial;
+        }
+       
+        h1,h2,h3,h4,h5,h6{
+            font-family: "Handlee", cursive;
+           color:#00394f ; 
+        }
+
+        .cards{
+            background-color: rgba(211,211,211,.1);
+        }
+
+       
+
+        h1:hover{
+            color: blue;
+        }
+        
